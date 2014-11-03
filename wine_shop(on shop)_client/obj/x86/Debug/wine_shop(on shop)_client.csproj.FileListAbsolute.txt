@@ -1,0 +1,23 @@
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.Properties.Resources.resources
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.user_control_panel.resources
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\bin\Debug\wine_shop(on shop)_client.exe
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\bin\Debug\wine_shop(on shop)_client.pdb
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop(on shop)_client.exe
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop(on shop)_client.pdb
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.billing.resources
+c:\users\monojit\documents\visual studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.table_option.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.change_passowrd.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.show_pack.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.bill_print.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.daily_report.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.insert_closing_stock.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.insert_expenses.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.insert_opening_stock.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.item_sale_report.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.login.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.logout.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.product_sale_report.resources
+C:\Users\MONOJIT\Documents\Visual Studio 2010\Projects\wine_shop(on shop)_client\wine_shop(on shop)_client\obj\x86\Debug\wine_shop_on_shop__client.user_billing.resources
